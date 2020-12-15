@@ -59,5 +59,11 @@ REST (REpresentational State Transfer) es un estilo de arquitectura de software 
 #### 11. ¿Qué son los headers en un request? ¿Para qué se utiliza el key Content-type en un header?
 Los headers otorgan informacion adicional junto a la consulta realizada como por ejemplo información acerca del navegador del cliente, de la página solicitada, del servidor, etc. El Content-type en el header se utiliza para indicar el tipo de dato que se esta enviando. El Content-type por ejemplo podria tener informacion de la codificacion de los caracteres.
 
+ ## Ejercicio 3
+ 1.
+ 2.
+ 3.
+
+La diferencia es que dado que en el item anterior se hizo un POST con nuestros datos al realizar nuevamente un GET a la misma url se observa como se obtuvieron los datos previamente insertados.
 
 
