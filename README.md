@@ -67,3 +67,12 @@ Los headers otorgan informacion adicional junto a la consulta realizada como por
 La diferencia es que dado que en el item anterior se hizo un POST con nuestros datos al realizar nuevamente un GET a la misma url se observa como se obtuvieron los datos previamente insertados.
 
 
+## Como Ejecutar
+1.Abrimos el simbolo del sistema
+2.En este nos posicionamo en la ruta donde este la carpeta 'scripts'
+3.Una vez dentro del directerio escribimos: 'node servidor.js'.     
+4.La consola debe respondernos "escuchando puerto 3000"
+5.Ahora nos dirigimos al navegador y escribimos 'localhost:3000' .
+6.Ahora completamos el formulario y enviamos.
+7.Si quisieramos verificar si nuestros datos fueron correctamente cargados pordemos hacerlo con postman (realizando un GET a la url) o bien con la url misma.
+
