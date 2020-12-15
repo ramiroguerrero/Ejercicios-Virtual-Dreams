@@ -22,7 +22,7 @@ En un POST, en cambio, la información que se envía no es visible en la URL y t
 #### 7.	¿Qué verbo http utiliza el navegador cuando accedemos a una página?
 El verbo HTTP que utiliza el navegador al acceder a una página web es el GET ya que el concepto de éste es obtener la información almacenada en el servidor.
 #### 8.	Explicar brevemente qué son las estructuras de datos JSON y XML dando ejemplo de estructuras posibles.
-Las estructuras de datos en JSON son los objetos enceraado entre {objeto} y los [array] en XML estas mismas estructuras se encierran entre etiquetas al estilo HTML ejemplos:
+Las estructuras de datos JSON (JavaScript Object Notation) y XML (Extensible Markup Language) son formatos de texto utilizados para el intercambio de información de manera estructurada. Ejemplos:
 
 XML:
 ```
