@@ -68,7 +68,7 @@ La diferencia es que dado que en el item anterior se hizo un POST con nuestros d
 
 
 ### Como ejecutar punto 4, 5 y 6.
--Abrir cmd y ejecutar: 'npm install (request y express)'
+-Abrir cmd.
 
 -Para el punto 4 ir al directorio donde se encuentre 'mostrarPersonas.js', y ejecutar en consola: 'node mostrarPersonas.js'.
 
