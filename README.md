@@ -67,7 +67,7 @@ Los headers otorgan informacion adicional junto a la consulta realizada como por
 La diferencia es que dado que en el item anterior se hizo un POST con nuestros datos al realizar nuevamente un GET a la misma url se observa como se obtuvieron los datos previamente insertados.
 
 
-## Como ejecutar punto 4,5 y 6.
+### Como ejecutar punto 4, 5 y 6.
 .Abrir cmd y ejecutar: 'npm install (request y express)'
 .Para el punto 4 ir al directorio donde se encuentre 'mostrarPersonas.js', y ejecutar en consola: 'node mostrarPersonas.js'.
 .Para el punto 5 y 6 ir al directorio donde se encuentre server.js, y escribir en consola: 'node server.js'.     
