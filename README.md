@@ -68,12 +68,17 @@ La diferencia es que dado que en el item anterior se hizo un POST con nuestros d
 
 
 ### Como ejecutar punto 4, 5 y 6.
-.Abrir cmd y ejecutar: 'npm install (request y express)'
-.Para el punto 4 ir al directorio donde se encuentre 'mostrarPersonas.js', y ejecutar en consola: 'node mostrarPersonas.js'.
-.Para el punto 5 y 6 ir al directorio donde se encuentre server.js, y escribir en consola: 'node server.js'.     
-.La consola responderá "escuchando puerto 3000"
-.Escribir en el navegador 'localhost:3000' .
-.Completar el formulario y enviar
+-Abrir cmd y ejecutar: 'npm install (request y express)'
+
+-Para el punto 4 ir al directorio donde se encuentre 'mostrarPersonas.js', y ejecutar en consola: 'node mostrarPersonas.js'.
+
+-Para el punto 5 y 6 ir al directorio donde se encuentre server.js, y escribir en consola: 'node server.js'.     
+
+-La consola responderá "escuchando puerto 3000"
+
+-Escribir en el navegador 'localhost:3000' .
+
+-Completar el formulario y enviar
 
 
 
